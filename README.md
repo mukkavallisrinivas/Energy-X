@@ -22,15 +22,15 @@ The project consists of two main components:
 ## Screenshots
 
 ### Main Dashboard
-![Main Dashboard](./Vems%20client%20---%20Frontend/public/screenshots/main%20dashboard.png)
+![Main Dashboard](./vems-client/public/screenshots/main-dashboard.png)
 The main dashboard provides an overview of key energy metrics and real-time monitoring.
 
 ### Power Control Center
-![Power Control Center](./Vems%20client%20---%20Frontend/public/screenshots/power%20control%20center%20data.png)
+![Power Control Center](./vems-client/public/screenshots/power-control-center-data.png)
 Detailed power control center data showing power factors and consumption patterns.
 
 ### Data Records
-![Data Records](./Vems%20client%20---%20Frontend/public/screenshots/Data%20Record.png)
+![Data Records](./vems-client/public/screenshots/data-record.png)
 Historical data records and analytics for energy consumption.
 
 ## Getting Started
